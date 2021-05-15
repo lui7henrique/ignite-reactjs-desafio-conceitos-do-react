@@ -12,12 +12,7 @@ $ yarn
 ```
 
 ```bash 
-# Inicie o servidor 
-$ yarn server
-```
-
-```bash 
-# Execute o projeto em outro terminal 
+# Execute o projeto 
 $ yarn dev
 ```
 
