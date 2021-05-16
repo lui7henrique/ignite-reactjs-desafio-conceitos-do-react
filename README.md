@@ -16,7 +16,4 @@ $ yarn
 $ yarn dev
 ```
 
-**Acesse <http://localhost:8080> para ver o resultado.**
-> _Lembre-se de deixar o JSON Server rodando, por isso utilize outro terminal para executar o projeto._
-
-
+>**Acesse <http://localhost:8080> para ver o resultado.**
